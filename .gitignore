@@ -1,0 +1,20 @@
+### IDEA project files ###
+.idea/
+*.ipr
+*.iws
+*.iml
+
+### Eclipse ###
+.project
+.classpath
+.factorypath
+.settings/
+.vscode/
+bin/
+
+### Java ###
+target/
+/logs/
+*.log
+out/
+build/
